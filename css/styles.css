@@ -33,3 +33,7 @@ a {
 .bss {
   margin-left: 30px;
 }
+
+img {
+  border-radius: 50%;
+}
